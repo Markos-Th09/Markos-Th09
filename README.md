@@ -1,5 +1,5 @@
 Hi, I’m @Markos-Th09
-Programmer and Cuber. HTML, CSS, SCSS, JS,  Typescript, Python, Java, C++,  Go, Rust, React, Next.js, Node.js, MDX, Haskell, a bit of Solidity, Discord bots, minecraft mods.
+Programmer and Cuber. I know a lot of languages but mainly code in rust :crab:, lua, js/ts
 
 <!---
 Markos-Th09/Markos-Th09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
